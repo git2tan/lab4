@@ -1,0 +1,10 @@
+test/Debug/test.pdb
+test/Debug/test.exe
+test/test.sln
+test/Debug/test.ilk
+test/test/Debug/test.tlog/CL.command.1.tlog
+test/test/Debug/test.tlog/test.lastbuildstate
+test/test/test.vcxproj.filters
+*.vcxproj
+*.tlog
+test/test.VC.VC.opendb
