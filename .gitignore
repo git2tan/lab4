@@ -8,3 +8,5 @@ test/test/test.vcxproj.filters
 *.vcxproj
 *.tlog
 test/test.VC.VC.opendb
+*.suo
+*.obj

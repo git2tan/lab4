@@ -13,7 +13,7 @@ void main()
 	e = 1001;
 	f = -1;
 	g = 900;
-	int max = getMaxInt(&e,&a,&c,&d,&f,&g);
+	int max = getMaxInt(&a,&b,&c,&d,&g,&f);
 	printf("Maximum is:%d\n", max);
 	system("pause");
 }
